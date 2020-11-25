@@ -1,5 +1,5 @@
 function saludarAJebus(aviso) {
-    var miNombre = prompt("¿Cuál es tu nombre?");
+    var miNombre = prompt("¿Como te llamas!?");
     if (miNombre) {
         alert("Hola " + miNombre + "!");
     }
